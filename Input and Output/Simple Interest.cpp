@@ -11,4 +11,5 @@ int main()
     cout<<"Enter Time period :- ";
     cin>>t;
     cout<<"Simple Interest is = "<<(p*r*t)/100;
+    return 0;
 }
